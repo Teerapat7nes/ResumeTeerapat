@@ -1,0 +1,95 @@
+.profile{
+  width: 150px;
+  border-radius: 50%; 
+}
+
+body{
+    margin: 0;
+    text-align: center;
+    background-color: rgb(212, 212, 212);
+    font-family: 'Itim', cursive;
+}
+div.top-container{
+    margin-top: 20px;
+    
+}
+h1{
+    color: black;
+}
+
+hr {
+    border-width: 5px;
+    border-style: dotted none none;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+
+.pim{
+    margin-bottom: 10px;
+}
+.grid-container1 {
+    display: grid;
+    grid-template-columns: 40% 60%;
+    grid-gap: 10px;
+
+}
+h6{
+    font-weight: bold;
+}
+.grid-container2 {
+    display: grid;
+    grid-template-columns: 20% 80%;
+    grid-gap: 10px;
+
+}
+.mmmm{
+    width: 80%;
+}
+
+.c1{
+    background-color: rgb(231, 230, 228);
+    margin-bottom: 10px;
+    margin-left: 150px;
+    padding: 5px 0px 15px 0px;
+    margin-top: 10px;
+    border-radius: 20px;
+
+}
+
+.c2{
+    background-color: rgb(231, 230, 228);
+    margin-bottom: 10px;
+    margin-right: 150px;
+    padding: 5px 0px 15px 0px;
+    margin-top: 10px;
+    border-radius: 20px;
+
+}
+.v123{
+    margin: auto;
+    text-align: center;
+
+}
+td{
+    padding: 0px 15px 0px 15px;
+    margin: 0px 15px 0px 15px;
+}
+.v1234{
+    text-align: justify;
+}
+.logo{
+    border-radius: 50%;
+    width: 24px;
+}
+
+a {
+    text-decoration: none;
+}
+.bottom{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(108,117,125);
+    margin: 0;
+}
